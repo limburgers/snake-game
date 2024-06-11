@@ -1,3 +1,3 @@
-snake game for APCSA passion project
+snake game for APCSP passion project
 
 - thanks henry
